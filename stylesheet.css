@@ -1,0 +1,26 @@
+body {
+	color: black;
+}
+
+li {
+	color: green;
+}
+
+/* Twee selectors? Dat betekent: Binnen de DIV, selecteer P */
+div p {
+	color: red;
+	font-weight: bold;
+}
+
+.frame {
+	width: 50%; /* De breedte ten opzichte van het scherm, dus de helft van het scherm! */
+}
+
+.lijn {
+	border: 4px solid black; /* Border betekent grens of lijn; solid betekent  */
+}
+
+#honden-tekst {
+	text-decoration: underline wavy red;
+	font-size: 32px; /* Default is 16 pixels, dus dit is 2x zo groot! */
+}

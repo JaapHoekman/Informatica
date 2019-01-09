@@ -1,0 +1,18 @@
+#kitten {
+  color: red;
+  font-family: Verdana;
+}
+.ding {
+  font-style: italic;
+}
+#idk{
+  font-size: small;
+}
+#iets {
+  font-style: italic;
+}
+#frame {
+  margin: auto;
+
+  text-align: center;
+}
